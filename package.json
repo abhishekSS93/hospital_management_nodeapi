@@ -1,0 +1,27 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "nodeapi",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekSS93/hospital_management_nodeapi.git"
+  },
+  "keywords": [
+    "1234"
+  ],
+  "author": "Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekSS93/hospital_management_nodeapi/issues"
+  },
+  "homepage": "https://github.com/abhishekSS93/hospital_management_nodeapi#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.4",
+    "nodemon": "^3.0.2"
+  }
+}
